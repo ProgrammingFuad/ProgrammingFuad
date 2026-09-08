@@ -12,4 +12,4 @@ Nora's AI desk agents — Scheduler, Biller, Recruiter, Compliance, Marketer —
 
 Most of the work lives in private repos — the green wall below is that.
 
-Building from Minneapolis · fuad.r.mohamoud@gmail.com
+Building from Minneapolis · fatah.im.him@gmail.com
